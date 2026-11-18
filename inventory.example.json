@@ -1,0 +1,4 @@
+[
+  {"name":"R1","host":"192.0.2.1","expected_interfaces":["GigabitEthernet0/0"],"expected_ospf_neighbors":["2.2.2.2"],"expect_default_route":true},
+  {"name":"R2","host":"192.0.2.2","expected_interfaces":["GigabitEthernet0/0"],"expected_ospf_neighbors":["2.2.2.2"],"expect_default_route":true}
+]
